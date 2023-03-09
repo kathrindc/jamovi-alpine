@@ -1,0 +1,3 @@
+[submodule "jamovi"]
+	path = jamovi
+	url = https://github.com/jamovi/jamovi
